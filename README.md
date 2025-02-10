@@ -1,3 +1,4 @@
 # github-demo
-Demo repo for GitHub tutorial
-Basic information about the repo
+This is a demo of how to use and work with Git 
+
+This is a new line
